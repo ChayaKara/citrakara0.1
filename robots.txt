@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://chayakara.github.io/citrakara0.1/sitemap.xml
+Sitemap: https://chayakara.github.io/citrakara/sitemap.xml
